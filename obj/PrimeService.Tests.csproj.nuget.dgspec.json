@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
+    "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj": {
+    "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "projectName": "PrimeService.Tests",
-        "projectPath": "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectPath": "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "packagesPath": "C:\\Users\\sazcona\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\obj\\",
+        "outputPath": "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sazcona\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj": {
-                "projectPath": "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj"
+              "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj": {
+                "projectPath": "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj"
               }
             }
           }
@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[17.7.1, )"
             },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.2.0, )"
@@ -81,14 +85,14 @@
         }
       }
     },
-    "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj": {
+    "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
+        "projectPath": "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\sazcona\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\obj\\",
+        "outputPath": "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\unit-testing-using-mstest\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sazcona\\AppData\\Roaming\\NuGet\\NuGet.Config",
